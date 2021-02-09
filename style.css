@@ -1,0 +1,7 @@
+.food-display{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    border:5px slateblue solid;
+    border-radius: 200 px;
+    margin: 10px;
+}
